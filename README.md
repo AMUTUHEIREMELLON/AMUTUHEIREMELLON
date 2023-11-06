@@ -1,6 +1,6 @@
 <p align="center"> 
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃
-  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/AMUTUHEIREMELLON/count.svg"/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMUTUHEIREMELLON&theme=cobalt2&layout=compact"width="48%"/> 
 </p>  
